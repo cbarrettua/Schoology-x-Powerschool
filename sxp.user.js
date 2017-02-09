@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Schoology x Powerschool
-// @version      0.2.1
+// @version      0.3
 // @description  Adds links to Powerschool and Schoology
 // @author       Collin
 // @match        https://uaschools.schoology.com/*
