@@ -5,8 +5,8 @@
 // @author       Collin
 // @match        https://uaschools.schoology.com/*
 // @match        https://ps-uar.metasolutions.net/guardian/*
-// @downloadURL  https://github.com/cbarrettua/Schoology-x-Powerschool/raw/master/Schoology%20x%20Powerschool.user.js
-// @updateURL    https://github.com/cbarrettua/Schoology-x-Powerschool/raw/master/Schoology%20x%20Powerschool.user.js
+// @downloadURL  https://github.com/cbarrettua/Schoology-x-Powerschool/raw/master/sxp.user.js
+// @updateURL    https://github.com/cbarrettua/Schoology-x-Powerschool/raw/master/sxp.user.js
 // @grant        none
 // ==/UserScript==
 
