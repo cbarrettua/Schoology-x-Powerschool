@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         Schoology x Powerschool
-// @version      0.2
+// @version      0.2.1
 // @description  Adds links to Powerschool and Schoology
 // @author       Collin
 // @match        https://uaschools.schoology.com/*
 // @match        https://ps-uar.metasolutions.net/guardian/*
 // @downloadURL  https://github.com/cbarrettua/Schoology-x-Powerschool/raw/master/sxp.user.js
 // @updateURL    https://github.com/cbarrettua/Schoology-x-Powerschool/raw/master/sxp.user.js
-// @icon         https://raw.githubusercontent.com/cbarrettua/Schoology-x-Powerschool/master/icon.png
+// @icon64       https://raw.githubusercontent.com/cbarrettua/Schoology-x-Powerschool/master/icon.png
 // @grant        none
 // ==/UserScript==
 
