@@ -18,6 +18,7 @@ if(windowURL.includes("schoology") === true) {
     newLI.setAttribute("class", "primary-activities schoology-processed");
     var newA = document.createElement('A');
     newA.setAttribute("class", "clickable sExtlink-processed");
+    newA.setAttribute('target', '_blank');
     newA.setAttribute("href", "https://ps-uar.metasolutions.net/guardian/home.html");
     var newText = document.createTextNode("Powerschool");
     newLI.appendChild(newA);
@@ -29,6 +30,7 @@ if(windowURL.includes("ps-uar")) {
     var newLI = document.createElement('LI');
     var newA = document.createElement('A');
     newA.setAttribute('href', 'https://uaschools.schoology.com/home');
+    newA.setAttribute('target', '_blank');
     newLI.appendChild(newA);
     var newText = document.createTextNode('Schoology');
     newA.appendChild(newText);
