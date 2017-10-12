@@ -8,6 +8,7 @@
 // @downloadURL  https://github.com/cbarrettua/Schoology-x-Powerschool/raw/master/sxp.user.js
 // @updateURL    https://github.com/cbarrettua/Schoology-x-Powerschool/raw/master/sxp.user.js
 // @icon         https://raw.githubusercontent.com/cbarrettua/Schoology-x-Powerschool/master/icon.png
+// @run-at        document-start
 // @grant        none
 // ==/UserScript==
 
